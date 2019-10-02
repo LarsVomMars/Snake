@@ -16,5 +16,4 @@ It should be possible to run the with mono else rebuild it with your IDE
 * s = backward
 * d = right
 * q = quit
-Depending on the direction the snake's heading.
-
+#### Depending on the snake's heading.
