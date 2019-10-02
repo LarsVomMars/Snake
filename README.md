@@ -1,18 +1,18 @@
 # Snake Game
-### as console application
+### As console application
 #### Object-oriented Project using C#
 
-## get it running
+## Get it running
 #### Windows
-* download and extract the repository
-* just for playing: grap and/or execute the **Snake.exe** file from *Snake/bin/debug*
-* for development open the **.sln** file in the root directory of this repository with *Visual Studio*, *JetBrains Rider* or any other IDE
+* Download and extract the repository
+* Just for playing: grab and/or execute the **Snake.exe** file from *Snake/bin/debug*
+* For development open the **.sln** file in the root directory of this repository with *Visual Studio*, *JetBrains Rider* or any other IDE
 
-## steering 
+## Control
 * w = forward
 * a = left
-* s = backward 
+* s = backward
 * d = right
 * q = quit
-depending on the direction the snake is heading towards
+Depending on the direction the snake's heading.
 
